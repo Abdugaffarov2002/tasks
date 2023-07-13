@@ -1,0 +1,13 @@
+.task {
+  width: 500px;
+  height: 500px;
+  text-align: center;
+  border: 3px dotted burlywood;
+  margin: 0 auto;
+  background-color: aqua;
+}
+.task h1 {
+  font-size: 35px;
+  color: black;
+  margin: 40% auto;
+}
